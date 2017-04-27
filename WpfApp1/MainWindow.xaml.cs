@@ -29,5 +29,10 @@ namespace WpfApp1
         {
             button1.Content = "new";
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            button2.Content = "new 2";
+        }
     }
 }
